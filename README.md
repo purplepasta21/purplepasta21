@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I enjoy building projects  and seeing what I can improve and optimise with them. I am typically active with Databricks, PyCharm, or PySpark, trying out new projects that I am interested in.<br> I am utilising Databricks to advance my proficiency with AI agents.<br> As part of my BSc Honours Degree, I am coding a smart irrigation device, to display collected data on an application. <br> I would like to learn more about AI optimisation.<br> I am currently studying a Bsc degree course on cloud computing.
+I enjoy building projects and seeing what I can improve and optimise with them. I am typically active with Databricks, PyCharm, or PySpark, trying out new projects to advance my skills.<br> I am utilising Databricks to advance my proficiency with AI agents.<br> As part of my BSc Honours Degree, I am coding a smart irrigation device, to display collected data on an application. <br> I would keen to advance my knowledge of AI model optimisation.
 
 
 ## 🌐 Socials:
