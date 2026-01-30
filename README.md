@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-📖I am currently studying a Bsc degree course on cloud computing.<br>🌱I am learning with Databricks to advance my proficiency with AI agents.<br>💦My current project has me coding a smart irrigation device, displaying collected data on an application.<br>🧠I would like to learn more about AI optimisation
+🌱I am learning with Databricks to advance my proficiency with AI agents.<br>💦My current project has me coding a smart irrigation device, displaying collected data on an application.<br>🧠I would like to learn more about AI optimisation.<br> 📖I am currently studying a Bsc degree course on cloud computing.
 
 
 ## 🌐 Socials:
